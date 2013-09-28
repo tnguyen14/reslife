@@ -2,11 +2,5 @@
 	<body>
 		<h1>{{title}}</h1>
 		{{debug this}}
-		{{#if markdown}}
-		{{{markdown}}}
-		{{/if}}
-
-		{{#if content}}
-		{{{content}}}
-		{{/if}}
+		{{{content.main}}}
 {{> footer}}

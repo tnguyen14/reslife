@@ -1,0 +1,10 @@
+{{> header}}
+	<body>
+		<h1>{{content.title}}</h1>
+		{{debug this}}
+		{{#each content.floors}}
+			{{debug ../this}}
+			<img src="{{../content.url}}/{{this}}"/>
+
+		{{/each}}
+{{> footer}}

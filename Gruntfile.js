@@ -48,8 +48,8 @@ module.exports = function(grunt) {
 		copy: {
 			build: {
 				files: [
-					{expand: true, cwd: 'contents/', src: '**/*.{jpg,png}', dest: '<%= config.buildPath %>/'},
-					{expand: true, cwd: 'sass', src: 'assets/**/*.{jpg,png,gif}', dest: '<%= config.buildPath %>/css/'}
+					{expand: true, cwd: 'contents/', src: '**/*.{jpg,png,svg}', dest: '<%= config.buildPath %>/'},
+					{expand: true, cwd: 'sass', src: 'assets/**/*', dest: '<%= config.buildPath %>/css/'}
 				]
 			}
 		},
@@ -58,7 +58,7 @@ module.exports = function(grunt) {
 				options: {
 					base: '<%= config.buildPath %>',
 					branch: 'master',
-					remote: 'gh-pages'
+					repo: 'git@github.com:tnguyen14/tnguyen14.github.io.git'
 				},
 				src: ['**/*']
 			}
@@ -66,10 +66,7 @@ module.exports = function(grunt) {
 		handlebars_html: {
 			options : {
 				partialDir : 'templates/partials',
-				helperDir : 'templates/helpers',
-				paginate: [
-					{dir: 'articles', postPerPage: 4, template: 'archive.hbs', title: 'Articles'}
-				]
+				helperDir : 'templates/helpers'
 			},
 			dev: {
 				src: 'templates/*.hbs',
@@ -87,7 +84,15 @@ module.exports = function(grunt) {
 					smartLists: true,
 					smartypants: true,
 					langPrefix: 'language-'
-				}
+				},
+				paginate: [
+					{
+						dir: 'articles',
+						postPerPage: 4,
+						template: 'archive.hbs',
+						title: 'Articles'
+					}
+				]
 			},
 			all: {
 				src: 'contents/**/*.{json,md}',
@@ -140,7 +145,7 @@ module.exports = function(grunt) {
 			},
 			contents: {
 				files: ['contents/**/*.{json,md}'],
-				tasks: ['import_contents']
+				tasks: ['process']
 			},
 			templates: {
 				files: ['templates/**/*.{hbs,html}'],
@@ -151,7 +156,7 @@ module.exports = function(grunt) {
 				tasks: ['copy']
 			},
 			grunt: {
-				files: ['tasks/*', 'Gruntfile.js'],
+				files: ['tasks/**/*.js', 'Gruntfile.js'],
 				tasks: ['process']
 			}
 		}

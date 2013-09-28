@@ -1,0 +1,7 @@
+{
+	"title": "Cragin",
+	"template": "building.hbs",
+	"floors": [
+		"cragin.svg"
+	]
+}

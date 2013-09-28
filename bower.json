@@ -1,5 +1,5 @@
 {
-  "name": "An awesome static site",
+  "name": "Wheaton ResLife Floor Plan",
   "version": "0.0.1",
   "devDependencies": {
     "requirejs": "~2.1.6",

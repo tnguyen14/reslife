@@ -57,8 +57,8 @@ module.exports = function(grunt) {
 			prod: {
 				options: {
 					base: '<%= config.buildPath %>',
-					branch: 'master',
-					repo: 'git@github.com:tnguyen14/tnguyen14.github.io.git'
+					branch: 'gh-pages',
+					repo: 'git@github.com:tnguyen14/reslife'
 				},
 				src: ['**/*']
 			}

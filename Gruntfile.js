@@ -134,6 +134,22 @@ module.exports = function(grunt) {
 		fix_sourcemaps: {
 			prod: ['<%= config.buildPath %>/app.js.map']
 		},
+		// deploy via rsync
+		rsync: {
+			options: {
+				args: ["--verbose"],
+				src: "<%= config.buildPath %>/",
+				exclude: ['.git*', 'node_modules', '.sass-cache', 'Gruntfile.js', 'package.json', '.DS_Store', 'README.md', 'config.rb', '.jshintrc'],
+				recursive: true,
+				syncDestIgnoreExcl: true
+			},
+			staging: {
+				options: {
+					dest: "/home/tringuyen/webapps/inspiredev/reslife",
+					host: "deploy@web319.webfaction.com"
+				}
+			}
+		},
 		watch: {
 			options: {
 				livereload: '<%= config.livereload %>' || 35729
@@ -225,7 +241,7 @@ module.exports = function(grunt) {
 
 	grunt.registerTask('deploy', 'Deploy site via gh-pages.', [
 		'build',
-		'gh-pages'
+		'rsync'
 	])
 
 	grunt.registerTask('default', ['dev']);

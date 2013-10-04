@@ -25,6 +25,7 @@
     "grunt-contrib-sass": "~0.4.1",
     "grunt-contrib-watch": "~0.4.4",
     "grunt-gh-pages": "~0.7.0",
+    "grunt-rsync": "~0.2.1",
     "matchdep": "~0.1.2"
   }
 }

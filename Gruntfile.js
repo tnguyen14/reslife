@@ -31,7 +31,7 @@ module.exports = function(grunt) {
 					middleware: function(connect, options) {
 						return [
 							// serve files in /dist as if they were in the root.
-							connect.static(__dirname + '/build/www'),
+							connect.static(__dirname + '/<%= config.buildPath %>'),
 							// but serve everything else from the root
 							connect.static(__dirname)
 						];
@@ -227,10 +227,6 @@ module.exports = function(grunt) {
 		'build',
 		'gh-pages'
 	])
-
-	grunt.registerTask('prod', [
-
-	]);
 
 	grunt.registerTask('default', ['dev']);
 }

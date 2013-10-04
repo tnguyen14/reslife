@@ -2,6 +2,6 @@
 	<body>
 		<h1>{{content.title}}</h1>
 		{{#each content.floors}}
-			<img class="floor" src="{{../content.url}}/{{src}}"/>
+			<img class="floor" src="{{../config.url}}{{../content.url}}/{{src}}"/>
 		{{/each}}
 {{> footer}}

@@ -21,8 +21,11 @@ module.exports = function (grunt) {
 	var config = grunt.file.readJSON('./config.json'),
 		config_dev = (grunt.file.exists('./config-dev.json')) ? grunt.file.readJSON('./config-dev.json') : {};
 
-	// config_dev will overwrite config
-	config_dev = _.extend(config, config_dev);
+	// config_dev will overwrite config in dev
+	var env = grunt.task.current.target;
+	if (env === 'dev') {
+		config_dev = _.extend(config, config_dev);
+	}
 
 	// Grunt task!
 	grunt.registerMultiTask('handlebars_html', 'write templates to html', function () {

@@ -1,0 +1,10 @@
+{
+	"title": "Everett",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name" : "Everett",
+			"src" : "everett.svg"
+		}
+	]
+}

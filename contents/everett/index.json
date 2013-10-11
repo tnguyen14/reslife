@@ -3,8 +3,20 @@
 	"template": "building.hbs",
 	"floors": [
 		{
-			"name" : "Everett",
-			"src" : "everett.svg"
+			"name" : "Basement",
+			"src" : "everett-basement.svg"
+		}, {
+			"name": "1st Floor",
+			"src": "everett-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "everett-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "everett-3rd.svg"
+		}, {
+			"name": "4th Floor",
+			"src": "everett-4th.svg"
 		}
 	]
 }

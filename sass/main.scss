@@ -1,4 +1,8 @@
 .floor {
+	border-bottom: 1px solid rgba(0,0,0,0.5);
 	max-width: 100%;
 	height: auto;
+	&:last-of-type {
+		border: none;
+	}
 }

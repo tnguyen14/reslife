@@ -2,6 +2,6 @@
 	"site-name": "Wheaton ResLife Floor Plans",
 	"url": "http://localhost:10000",
 	"port": 10000,
-	"livereload": 35731,
+	"livereload": 35729,
 	"buildPath": "build/www"
 }

@@ -4,16 +4,16 @@
 	"floors": [
 		{
 			"name" : "Basement",
-			"src" : "cragin-basement.svg"
+			"src" : "dist/cragin-basement.svg"
 		}, {
 			"name": "1st Floor",
-			"src": "cragin-1st.svg"
+			"src": "dist/cragin-1st.svg"
 		}, {
 			"name": "2nd Floor",
-			"src": "cragin-2nd.svg"
+			"src": "dist/cragin-2nd.svg"
 		}, {
 			"name": "3rd Floor",
-			"src": "cragin-3rd.svg"
+			"src": "dist/cragin-3rd.svg"
 		}
 	]
 }

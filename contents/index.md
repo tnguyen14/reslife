@@ -4,3 +4,4 @@ template: "index.hbs"
 ---
 [Cragin](cragin)
 [Everett](everett)
+[Beard](beard)

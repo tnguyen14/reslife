@@ -1,0 +1,16 @@
+{
+	"title": "Keefe",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "1st Floor",
+			"src": "dist/keefe-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/keefe-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/keefe-3rd.svg"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"title": "Gebbie",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "1st Floor",
+			"src": "dist/gebbie-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/gebbie-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/gebbie-3rd.svg"
+		}
+	]
+}

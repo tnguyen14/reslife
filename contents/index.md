@@ -13,3 +13,4 @@ template: "index.hbs"
 ## Lower Campus
 ### Meadows
 [Meadows East](meadows-east)
+[Meadows West](meadows-west)

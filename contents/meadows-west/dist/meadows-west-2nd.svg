@@ -14,7 +14,7 @@
    id="svg3141"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="meadows-west-master.svg">
+   sodipodi:docname="meadows-west-1st.svg">
   <defs
      id="defs3143">
     <clipPath
@@ -615,7 +615,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="2nd Floor"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 60,250 0,520 1280,0 0,-80 120,0 0,-300 -120,0 0,-140 -500,0 0,-140 -260,0 0,140 z"

@@ -1,0 +1,19 @@
+{
+	"title": "Meadows West",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "1st Floor",
+			"src": "dist/meadows-west-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/meadows-west-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/meadows-west-3rd.svg"
+		}, {
+			"name": "4th Floor",
+			"src": "dist/meadows-west-4th.svg"
+		}
+	]
+}

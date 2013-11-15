@@ -2,8 +2,14 @@
 title: "Floor Plans"
 template: "index.hbs"
 ---
-[Cragin](cragin)
-[Everett](everett)
+## Upper Campus
+### EEKSGW
+[Everett & Everett Heights](everett)
 [Beard](beard)
 [Keefe](keefe)
 [Gebbie](gebbie)
+### KLMC2
+[Cragin](cragin)
+## Lower Campus
+### Meadows
+[Meadows East](meadows-east)

@@ -1,0 +1,19 @@
+{
+	"title": "Young",
+	"template": "building.hbs",
+	"floors": [
+		 {
+			"name": "Basement",
+			"src": "dist/young-basement.svg"
+		}, {
+			"name": "1st Floor",
+			"src": "dist/young-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/young-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/young-3rd.svg"
+		}
+	]
+}

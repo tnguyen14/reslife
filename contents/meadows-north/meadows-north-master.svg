@@ -87,7 +87,7 @@
      inkscape:cx="667.81646"
      inkscape:cy="335.72361"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer15"
      showgrid="true"
      inkscape:window-width="1397"
      inkscape:window-height="856"
@@ -678,27 +678,27 @@
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="680"
-       y="770"
+       x="280"
+       y="790"
        id="text11244"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11246"
-         x="680"
-         y="770"
-         style="font-style:italic;-inkscape-font-specification:Sans Italic">Parking Lot</tspan></text>
+         x="280"
+         y="790"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Meadows Center</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="700"
+       x="720"
        y="70"
        id="text11287"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11289"
-         x="700"
+         x="720"
          y="70"
-         style="font-style:italic;-inkscape-font-specification:Sans Italic">Courtyard</tspan></text>
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">YMC</tspan></text>
     <path
        style="fill:#000000;fill-opacity:0.58937198;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 130,560 30,0 0,90 20,0 -35,30 -35,-30 20,0 z"
@@ -1337,30 +1337,6 @@
          x="60"
          y="930"
          style="font-size:50px">Meadows North - 2nd Floor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="680"
-       y="770"
-       id="text11244-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11246-1"
-         x="680"
-         y="770"
-         style="font-style:italic;-inkscape-font-specification:Sans Italic">Parking Lot</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="700"
-       y="70"
-       id="text11287-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11289-6"
-         x="700"
-         y="70"
-         style="font-style:italic;-inkscape-font-specification:Sans Italic">Courtyard</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 200,350 0,-80 -100,0"
@@ -1376,6 +1352,30 @@
        inkscape:connector-curvature="0"
        d="m 234.86154,221.59165 -16.20823,-13.89277 c 0.75482,-1.4182 1.18312,-3.03654 1.18312,-4.75514 0,-5.59772 -4.53786,-10.1356 -10.1356,-10.1356 -1.02391,0 -2.01205,0.15248 -2.94376,0.43477 l 5.85578,5.85573 c 0.87595,0.87595 0.87595,2.30942 0,3.18536 l -3.57175,3.57173 c -0.87596,0.87595 -2.30937,0.87595 -3.18532,0 L 200,200 c -0.28231,0.93164 -0.43477,1.91979 -0.43477,2.94374 0,5.59772 4.53786,10.1356 10.1356,10.1356 1.71862,0 3.33693,-0.42835 4.75515,-1.18325 l 13.8928,16.20827 c 0.80621,0.94049 2.18253,0.99334 3.05842,0.11748 l 3.57182,-3.57182 c 0.87588,-0.87586 0.82302,-2.25217 -0.11748,-3.05837 z"
        id="path67-7-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="320"
+       y="750"
+       id="text11244-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11246-38"
+         x="320"
+         y="750"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Meadows Center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="720"
+       y="70"
+       id="text11287-38"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11289-7"
+         x="720"
+         y="70"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">YMC</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1917,30 +1917,6 @@
          x="60"
          y="930"
          style="font-size:50px">Meadows North - 3rd Floor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="680"
-       y="770"
-       id="text11244-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11246-3"
-         x="680"
-         y="770"
-         style="font-style:italic;-inkscape-font-specification:Sans Italic">Parking Lot</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="700"
-       y="70"
-       id="text11287-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11289-8"
-         x="700"
-         y="70"
-         style="font-style:italic;-inkscape-font-specification:Sans Italic">Courtyard</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1951,6 +1927,30 @@
        inkscape:connector-curvature="0"
        d="m 234.86154,221.59165 -16.20823,-13.89277 c 0.75482,-1.4182 1.18312,-3.03654 1.18312,-4.75514 0,-5.59772 -4.53786,-10.1356 -10.1356,-10.1356 -1.02391,0 -2.01205,0.15248 -2.94376,0.43477 l 5.85578,5.85573 c 0.87595,0.87595 0.87595,2.30942 0,3.18536 l -3.57175,3.57173 c -0.87596,0.87595 -2.30937,0.87595 -3.18532,0 L 200,200 c -0.28231,0.93164 -0.43477,1.91979 -0.43477,2.94374 0,5.59772 4.53786,10.1356 10.1356,10.1356 1.71862,0 3.33693,-0.42835 4.75515,-1.18325 l 13.8928,16.20827 c 0.80621,0.94049 2.18253,0.99334 3.05842,0.11748 l 3.57182,-3.57182 c 0.87588,-0.87586 0.82302,-2.25217 -0.11748,-3.05837 z"
        id="path67-7-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="280"
+       y="750"
+       id="text11244-93"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11246-8"
+         x="280"
+         y="750"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Meadows Center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="680"
+       y="70"
+       id="text11287-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11289-2"
+         x="680"
+         y="70"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">YMC</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2492,30 +2492,6 @@
          x="60"
          y="930"
          style="font-size:50px">Meadows North - 4th Floor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="680"
-       y="770"
-       id="text11244-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11246-17"
-         x="680"
-         y="770"
-         style="font-style:italic;-inkscape-font-specification:Sans Italic">Parking Lot</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="700"
-       y="70"
-       id="text11287-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11289-63"
-         x="700"
-         y="70"
-         style="font-style:italic;-inkscape-font-specification:Sans Italic">Courtyard</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2526,5 +2502,29 @@
        inkscape:connector-curvature="0"
        d="m 234.86154,221.59165 -16.20823,-13.89277 c 0.75482,-1.4182 1.18312,-3.03654 1.18312,-4.75514 0,-5.59772 -4.53786,-10.1356 -10.1356,-10.1356 -1.02391,0 -2.01205,0.15248 -2.94376,0.43477 l 5.85578,5.85573 c 0.87595,0.87595 0.87595,2.30942 0,3.18536 l -3.57175,3.57173 c -0.87596,0.87595 -2.30937,0.87595 -3.18532,0 L 200,200 c -0.28231,0.93164 -0.43477,1.91979 -0.43477,2.94374 0,5.59772 4.53786,10.1356 10.1356,10.1356 1.71862,0 3.33693,-0.42835 4.75515,-1.18325 l 13.8928,16.20827 c 0.80621,0.94049 2.18253,0.99334 3.05842,0.11748 l 3.57182,-3.57182 c 0.87588,-0.87586 0.82302,-2.25217 -0.11748,-3.05837 z"
        id="path67-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="240"
+       y="750"
+       id="text11244-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11246-6"
+         x="240"
+         y="750"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Meadows Center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="760"
+       y="70"
+       id="text11287-75"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11289-4"
+         x="760"
+         y="70"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">YMC</tspan></text>
   </g>
 </svg>

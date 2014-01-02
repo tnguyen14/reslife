@@ -61,7 +61,7 @@
      inkscape:cx="889.30313"
      inkscape:cy="405.21301"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="1397"
      inkscape:window-height="856"
@@ -92,7 +92,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="1st Floor"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 1459.8827,668.43179 0.3207,-519.9999 -1279.99971,-0.78963 -0.0494,79.99999 -119.999982,-0.074 -0.18507,299.99994 119.999982,0.074 -0.0864,139.99997 499.9999,0.30845 -0.0864,139.99998 259.99995,0.16039 0.0864,-139.99997 z"
@@ -598,6 +598,135 @@
          d="m 260,375.36218 c 0,-39.56192 0,-17.33333 0,-27"
          style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="280"
+       y="810"
+       id="text5064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066"
+         x="280"
+         y="810"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Parking Lot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="240"
+       y="90"
+       id="text5064-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-8"
+         x="240"
+         y="90"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Meadows Center</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:0.58937198;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 140,260.00001 -30,0 L 110,170 90.000002,170 125,140 l 35,30 -20,0 z"
+       id="path6525"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <g
+       style="display:inline"
+       id="g4391"
+       transform="matrix(0.89999996,0,0,0.89999996,-139,-345.12593)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3981"
+         d="m 315,462.36218 45,0 0,50 -45,0 z"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3983"
+         d="m 315,472.36218 45,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3985"
+         d="m 350,462.36218 0,50"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.5,0,0,0.5,157.5,232.43109)"
+         d="m 325,469.86218 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z"
+         sodipodi:ry="2.5"
+         sodipodi:rx="2.5"
+         sodipodi:cy="469.86218"
+         sodipodi:cx="322.5"
+         id="path3987"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.69199997;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.5,0,0,0.5,161,232.43109)"
+         d="m 325,469.86218 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z"
+         sodipodi:ry="2.5"
+         sodipodi:rx="2.5"
+         sodipodi:cy="469.86218"
+         sodipodi:cx="322.5"
+         id="path3987-8"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.69199997;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-2,-5)"
+         d="m 347,497.36218 c 0,6.62742 -5.37258,12 -12,12 -6.62742,0 -12,-5.37258 -12,-12 0,-6.62741 5.37258,-12 12,-12 6.62742,0 12,5.37259 12,12 z"
+         sodipodi:ry="12"
+         sodipodi:rx="12"
+         sodipodi:cy="497.36218"
+         sodipodi:cx="335"
+         id="path4009"
+         style="fill:none;stroke:#000000;stroke-width:0.69199997;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cacacacac"
+         inkscape:connector-curvature="0"
+         id="path4013"
+         d="m 321.38491,491.36218 c 0.34724,1.87373 1.33877,2.6697 2.61509,2.84694 1.16316,0.16153 3,-1.84694 3,-1.84694 0,0 1.94591,1 3,1 1.05409,0 3,-1 3,-1 0,0 1.94591,1 3,1 1.05409,0 3,-1 3,-1 0.34641,0.72208 1.72397,1.20189 2.68433,1.0947 1.21212,-0.13529 2.91946,-1.23555 3,-2.0947"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4389"
+         d="m 332.78584,490.94175 c -0.32059,0.20967 -0.4624,0.59251 -0.70931,0.87473 -0.47318,0.60204 -0.99953,1.23313 -1.7411,1.50268 -0.59769,0.18135 -1.17735,-0.1973 -1.59988,-0.58535 -0.52241,-0.46622 -0.90461,-1.0577 -1.32305,-1.61252 -0.22707,-0.27023 -0.6702,-0.25426 -0.86021,0.0375 -0.54682,0.76303 -1.08648,1.60711 -1.94139,2.05582 -0.69118,0.32946 -1.54726,0.0734 -2.10218,-0.41038 -0.3321,-0.25447 -0.50067,-0.65236 -0.7951,-0.93913 -0.2829,-0.24515 -0.76642,-0.064 -0.82568,0.30285 -0.055,0.637 0.024,1.28052 0.10018,1.91345 0.44329,3.20635 2.24699,6.18856 4.86562,8.08828 1.92134,1.40905 4.27157,2.23399 6.65391,2.31247 1.10012,0.0308 2.20658,-0.0427 3.27727,-0.3079 3.30459,-0.76455 6.23718,-2.99234 7.85166,-5.97498 0.95334,-1.7295 1.4779,-3.69165 1.48986,-5.66827 -0.0158,-0.31952 0.0878,-0.7379 -0.21521,-0.95521 -0.27114,-0.23435 -0.66494,-0.0559 -0.82431,0.22322 -0.46139,0.64884 -1.04304,1.27878 -1.80131,1.56357 -0.49684,0.20002 -1.08016,0.0867 -1.48859,-0.25155 -0.618,-0.48897 -1.01792,-1.19064 -1.39784,-1.86938 -0.18585,-0.31723 -0.66976,-0.31918 -0.87106,-0.0326 -0.56094,0.75711 -1.1211,1.57829 -1.98084,2.02326 -0.43474,0.24432 -0.97407,0.1344 -1.36529,-0.14402 -0.76714,-0.51642 -1.27315,-1.30908 -1.8206,-2.03377 -0.15666,-0.15006 -0.373,-0.19204 -0.57555,-0.11281 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.06313454;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       style="display:inline"
+       id="g6118-57"
+       transform="matrix(0.70833333,0,0,0.70833333,-163.20833,-67.339874)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6106-9"
+         d="m 280,237.36218 c 26.66667,0 63.33333,0 90,0 m -5,-35 -80,0 0,35"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6108-9-3"
+         d="m 285,217.36218 -20,0 0,35 120,0 0,-35 -20,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6110-2-9"
+         d="m 325,202.36218 0,35"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6112-3"
+         d="m 275,252.36218 0,10"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6114-7"
+         d="m 375,252.36218 0,10"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6116-9-7"
+         d="m 365,202.36218 0,35"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1088,6 +1217,30 @@
          x="40"
          y="950"
          style="font-size:50px">Meadows West - 2nd Floor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="260"
+       y="810"
+       id="text5064-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-3"
+         x="260"
+         y="810"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Parking Lot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="220"
+       y="90"
+       id="text5064-7-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-8-6"
+         x="220"
+         y="90"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Meadows Center</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1578,12 +1731,38 @@
          x="40"
          y="950"
          style="font-size:50px">Meadows West - 3rd Floor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30.41381264px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="223.03462"
+       y="818.70697"
+       id="text5064-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98639392,1.0137938)"><tspan
+         sodipodi:role="line"
+         id="tspan5066-0"
+         x="223.03462"
+         y="818.70697"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Parking Lot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30.41381264px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="182.48288"
+       y="88.775452"
+       id="text5064-7-09"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98639392,1.0137938)"><tspan
+         sodipodi:role="line"
+         id="tspan5066-8-5"
+         x="182.48288"
+         y="88.775452"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Meadows Center</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="4th Floor"
-     style="display:inline">
+     style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1460,667.53763 -1.6421,-519.99741 -1279.99358,4.04196 0.25263,79.9996 -119.999406,0.37893 0.947335,299.99851 119.999401,-0.37894 0.44209,139.99931 499.99751,-1.57889 0.44209,139.9993 259.9987,-0.82103 -0.44209,-139.9993 z"
@@ -2002,7 +2181,7 @@
          style="fill:#004877;fill-opacity:1;display:inline" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-18.000009,-25.157491)"
-         d="m 285,362.36218 c 0,8.28427 -6.71573,15 -15,15 -8.28427,0 -15,-6.71573 -15,-15 0,-8.28427 6.71573,-15 15,-15 8.28427,0 15,6.71573 15,15 z"
+         d="m 285,362.36218 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
          sodipodi:ry="15"
          sodipodi:rx="15"
          sodipodi:cy="362.36218"
@@ -2068,5 +2247,29 @@
          x="40"
          y="950"
          style="font-size:50px">Meadows West - 4th Floor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="240"
+       y="810"
+       id="text5064-63"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-08"
+         x="240"
+         y="810"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Parking Lot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="200"
+       y="90"
+       id="text5064-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-8-0"
+         x="200"
+         y="90"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Meadows Center</tspan></text>
   </g>
 </svg>

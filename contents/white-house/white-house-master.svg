@@ -14,7 +14,7 @@
    id="svg3489"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 4">
+   sodipodi:docname="white-house-master.svg">
   <defs
      id="defs3491" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.51811789"
-     inkscape:cx="1008.4087"
-     inkscape:cy="556.58327"
+     inkscape:cx="988.31433"
+     inkscape:cy="517.98202"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -81,7 +81,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -344,6 +344,62 @@
          y="160"
          id="tspan3446"
          style="font-style:italic;-inkscape-font-specification:Sans Italic">Slype</tspan></text>
+    <g
+       transform="matrix(-1,0,0,-1,619,770.36218)"
+       id="g6051">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 299,359.36218 0,5 22,0 0,6 -22,0 0,5 -10,-8 z"
+         id="rect5968"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3801-1"
+         d="m 285,362.36218 c -7.26936,-12.85751 -25.48404,-15.28732 -26.01317,-15.00486"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6022"
+         d="m 260,382.36218 20,-25"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6024"
+         d="m 260,375.36218 c 0,-39.56192 0,-17.33333 0,-27"
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="translate(901,35.63782)"
+       id="g6051-8">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 299,359.36218 0,5 22,0 0,6 -22,0 0,5 -10,-8 z"
+         id="rect5968-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3801-1-4"
+         d="m 285,362.36218 c -7.26936,-12.85751 -25.48404,-15.28732 -26.01317,-15.00486"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6022-7"
+         d="m 260,382.36218 20,-25"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6024-1"
+         d="m 260,375.36218 c 0,-39.56192 0,-17.33333 0,-27"
+         style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
   </g>
   <g
      style="display:none"
@@ -691,7 +747,7 @@
          sodipodi:cy="362.36218"
          sodipodi:rx="15"
          sodipodi:ry="15"
-         d="m 285,362.36218 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+         d="m 285,362.36218 c 0,8.28427 -6.71573,15 -15,15 -8.28427,0 -15,-6.71573 -15,-15 0,-8.28427 6.71573,-15 15,-15 8.28427,0 15,6.71573 15,15 z"
          transform="matrix(0.84738943,0,0,0.84738943,286.41569,137.58946)" />
     </g>
   </g>

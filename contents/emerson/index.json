@@ -1,0 +1,10 @@
+{
+	"title": "Emerson",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "2nd Floor",
+			"src": "emerson-master.svg"
+		}
+	]
+}

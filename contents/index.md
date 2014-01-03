@@ -8,6 +8,8 @@ template: "index.hbs"
 [Beard](beard)
 [Keefe](keefe)
 [Gebbie](gebbie)
+[White House](white-house)
+[Emerson](emerson)
 ### KLMC2
 [Cragin](cragin)
 ## Lower Campus
@@ -17,4 +19,5 @@ template: "index.hbs"
 [Meadows North](meadows-north)
 ### YMC
 [Young](young)
+[Clark](clark)
 [McIntire](mcintire)

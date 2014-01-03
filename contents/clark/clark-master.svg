@@ -179,10 +179,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="808.76936"
-     inkscape:cy="629.22985"
+     inkscape:cx="648.76936"
+     inkscape:cy="389.22985"
      inkscape:document-units="px"
-     inkscape:current-layer="g4266"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="1339"
      inkscape:window-height="815"
@@ -239,7 +239,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="1st Floor"
-     style="display:inline">
+     style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 80,210 120,0 0,40 1260,0 0,340 -520,0 0,20 -360,0 0,-20 -500,0 z"
@@ -767,6 +767,30 @@
        inkscape:connector-curvature="0"
        d="m 325.82044,505.73592 -16.20823,-13.89277 c 0.75482,-1.4182 1.18312,-3.03654 1.18312,-4.75514 0,-5.59772 -4.53786,-10.1356 -10.1356,-10.1356 -1.02391,0 -2.01205,0.15248 -2.94376,0.43477 l 5.85578,5.85573 c 0.87595,0.87595 0.87595,2.30942 0,3.18536 L 300,490 c -0.87596,0.87595 -2.30937,0.87595 -3.18532,0 l -5.85578,-5.85573 c -0.28231,0.93164 -0.43477,1.91979 -0.43477,2.94374 0,5.59772 4.53786,10.1356 10.1356,10.1356 1.71862,0 3.33693,-0.42835 4.75515,-1.18325 l 13.8928,16.20827 c 0.80621,0.94049 2.18253,0.99334 3.05842,0.11748 l 3.57182,-3.57182 c 0.87588,-0.87586 0.82302,-2.25217 -0.11748,-3.05837 z"
        id="path67-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="60"
+       y="930"
+       id="text5012"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5014"
+         x="60"
+         y="930"
+         style="font-size:50px">Clark - 1st Floor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="700"
+       y="170"
+       id="text5064-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-7"
+         x="700"
+         y="170"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Pond</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1270,6 +1294,30 @@
          id="tspan4375"
          x="500"
          y="330">AC Apartment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="60"
+       y="930"
+       id="text5012-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5014-1"
+         x="60"
+         y="930"
+         style="font-size:50px">Clark - 2nd Floor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="720"
+       y="150"
+       id="text5064-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-3"
+         x="720"
+         y="150"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Pond</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1922,6 +1970,30 @@
          x="1292"
          y="500"
          style="font-size:25px">311</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="60"
+       y="930"
+       id="text5012-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5014-7"
+         x="60"
+         y="930"
+         style="font-size:50px">Clark - 3rd Floor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="720"
+       y="150"
+       id="text5064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066"
+         x="720"
+         y="150"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Pond</tspan></text>
   </g>
   <g
      style="display:none"
@@ -2574,5 +2646,29 @@
          x="1292"
          id="tspan4501"
          sodipodi:role="line">411</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="58"
+       y="930"
+       id="text5012-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5014-19"
+         x="58"
+         y="930"
+         style="font-size:50px">Clark - 4th Floor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="700"
+       y="150"
+       id="text5064-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5066-0"
+         x="700"
+         y="150"
+         style="font-style:italic;-inkscape-font-specification:Sans Italic">Pond</tspan></text>
   </g>
 </svg>

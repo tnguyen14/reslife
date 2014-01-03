@@ -1,0 +1,19 @@
+{
+	"title": "Clark",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "1st Floor",
+			"src": "dist/clark-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/clark-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/clark-3rd.svg"
+		}, {
+			"name" : "4th Floor",
+			"src" : "dist/clark-4th.svg"
+		}
+	]
+}

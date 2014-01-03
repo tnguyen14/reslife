@@ -1,0 +1,13 @@
+{
+	"title": "White House",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "1st Floor",
+			"src": "dist/white-house-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/white-house-2nd.svg"
+		}
+	]
+}

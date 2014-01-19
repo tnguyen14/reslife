@@ -10,8 +10,10 @@ template: "index.hbs"
 [Gebbie](gebbie)
 [White House](white-house)
 [Emerson](emerson)
-### KLMC2
+### KLMCC
 [Cragin](cragin)
+[Chapin](chapin)
+[Metcalf](metcalf)
 ## Lower Campus
 ### Meadows
 [Meadows East](meadows-east)

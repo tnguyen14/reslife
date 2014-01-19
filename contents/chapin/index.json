@@ -1,0 +1,19 @@
+{
+	"title": "Chapin",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "Basement",
+			"src": "dist/chapin-basement.svg"
+		},{
+			"name": "1st Floor",
+			"src": "dist/chapin-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/chapin-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/chapin-3rd.svg"
+		}
+	]
+}

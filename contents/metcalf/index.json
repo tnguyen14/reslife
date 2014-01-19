@@ -1,0 +1,19 @@
+{
+	"title": "Metcalf",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "Basement",
+			"src": "dist/metcalf-basement.svg"
+		},{
+			"name": "1st Floor",
+			"src": "dist/metcalf-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/metcalf-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/metcalf-3rd.svg"
+		}
+	]
+}

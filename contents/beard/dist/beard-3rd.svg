@@ -413,16 +413,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="792.0913"
-     inkscape:cy="590.06149"
+     inkscape:zoom="0.5"
+     inkscape:cx="550.0913"
+     inkscape:cy="228.19425"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1372"
-     inkscape:window-height="840"
+     inkscape:window-width="1837"
+     inkscape:window-height="1023"
      inkscape:window-x="51"
      inkscape:window-y="22"
      inkscape:window-maximized="0">
@@ -1691,6 +1691,18 @@
        d="m 1245.2893,455.15912 c -8.8712,2.74059 -17.7567,6.30782 -25.7652,10.98226 2.0519,7.54207 6.1057,14.8775 8.9604,22.30395 1.8506,3.0213 2.3134,10.78633 7.1931,6.56815 7.5868,-3.6555 15.6953,-6.41192 22.8699,-10.81878 -1.3939,-6.11045 -5.045,-11.98186 -7.3829,-17.93627 -2.0529,-3.51206 -2.9164,-8.26316 -5.6985,-11.1214 l -0.1105,0 -0.066,0.0221 z m -14.7609,9.98789 c 1.6569,0.85337 1.3156,3.89039 3.3367,4.79506 2.5892,1.828 2.1529,-2.79244 2.4307,-4.15425 1.6311,-1.18568 0.079,3.69811 2.3202,3.0273 2.5761,0.24423 2.7299,-1.85288 3.1599,-3.57973 1.5309,-0.0279 1.1147,2.9755 2.6737,3.51344 0.6048,2.1162 1.179,4.97889 -0.5524,6.56284 -0.8916,2.00047 1.052,6.61887 -2.7843,5.39169 -1.8493,-1.00508 -0.3339,-4.38229 -1.5689,-6.0988 -1.5815,-2.40688 -2.796,1.68965 -2.3422,3.0273 0.4701,0.77687 -0.4498,4.67455 -1.0165,2.276 -0.05,-1.55742 0.37,-5.66219 -2.3202,-4.35313 -3.3392,0.0752 0.2501,6.19065 -3.4692,5.19282 -2.573,-0.28658 -0.4699,-4.41257 -2.6296,-5.14862 0.7875,-1.54438 -1.5426,-2.15719 -0.3977,-3.7786 0.3948,-2.56223 2.7654,-3.99698 2.9831,-6.54074 0.057,-0.039 0.1136,-0.11468 0.1767,-0.13258 z"
        id="path8970"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="80"
+       y="890"
+       id="text3674"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3676"
+         x="80"
+         y="890"
+         style="font-size:50px">Beard - 1st Floor</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2978,6 +2990,18 @@
          d="m 365,202.36218 0,35"
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="100"
+       y="910"
+       id="text3674-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3676-3"
+         x="100"
+         y="910"
+         style="font-size:50px">Beard - 2nd Floor</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4302,5 +4326,17 @@
          d="m 365,202.36218 0,35"
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="80"
+       y="910"
+       id="text3674-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3676-4"
+         x="80"
+         y="910"
+         style="font-size:50px">Beard - 3rd Floor</tspan></text>
   </g>
 </svg>

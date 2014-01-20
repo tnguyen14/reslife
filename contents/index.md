@@ -6,9 +6,9 @@ template: "index.hbs"
 ## EEKSGW
 [Everett & Everett Heights](everett)
 [Keefe](keefe)
+[Stanton](stanton)
 [Gebbie](gebbie)
 [White House](white-house)
-[Emerson](emerson)
 ## KLMCC
 [Kilham](kilham)
 [Larcom](larcom)
@@ -24,3 +24,5 @@ template: "index.hbs"
 [Young](young)
 [Clark](clark)
 [McIntire](mcintire)
+## Houses
+[Emerson](emerson)

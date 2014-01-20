@@ -1,0 +1,19 @@
+{
+	"title": "Larcom",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "Basement",
+			"src": "dist/larcom-basement.svg"
+		},{
+			"name": "1st Floor",
+			"src": "dist/larcom-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/larcom-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/larcom-3rd.svg"
+		}
+	]
+}

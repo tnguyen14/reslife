@@ -10,9 +10,11 @@ template: "index.hbs"
 [White House](white-house)
 [Emerson](emerson)
 ## KLMCC
+[Kilham](kilham)
+[Larcom](larcom)
+[Metcalf](metcalf)
 [Cragin](cragin)
 [Chapin](chapin)
-[Metcalf](metcalf)
 ## BaM
 [Beard](beard)
 [Meadows East](meadows-east)

@@ -1,0 +1,19 @@
+{
+	"title": "Kilham",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name": "Basement",
+			"src": "dist/kilham-basement.svg"
+		},{
+			"name": "1st Floor",
+			"src": "dist/kilham-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/kilham-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/kilham-3rd.svg"
+		}
+	]
+}

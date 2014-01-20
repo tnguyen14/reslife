@@ -1,0 +1,22 @@
+{
+	"title": "Stanton",
+	"template": "building.hbs",
+	"floors": [
+		{
+			"name" : "Basement",
+			"src" : "dist/stanton-basement.svg"
+		}, {
+			"name": "1st Floor",
+			"src": "dist/stanton-1st.svg"
+		}, {
+			"name": "2nd Floor",
+			"src": "dist/stanton-2nd.svg"
+		}, {
+			"name": "3rd Floor",
+			"src": "dist/stanton-3rd.svg"
+		}, {
+			"name": "4th Floor",
+			"src": "dist/stanton-4th.svg"
+		}
+	]
+}

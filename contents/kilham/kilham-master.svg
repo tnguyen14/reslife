@@ -169,10 +169,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55223353"
-     inkscape:cx="538.03313"
-     inkscape:cy="446.42916"
+     inkscape:cx="796.52329"
+     inkscape:cy="518.86228"
      inkscape:document-units="px"
-     inkscape:current-layer="g5682"
+     inkscape:current-layer="layer6"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -406,7 +406,7 @@
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          transform="matrix(0.5,0,0,0.5,157.5,232.43109)"
-         d="m 325,469.86218 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z"
+         d="m 325,469.86218 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
          sodipodi:ry="2.5"
          sodipodi:rx="2.5"
          sodipodi:cy="469.86218"
@@ -416,7 +416,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.5,0,0,0.5,161,232.43109)"
-         d="m 325,469.86218 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z"
+         d="m 325,469.86218 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
          sodipodi:ry="2.5"
          sodipodi:rx="2.5"
          sodipodi:cy="469.86218"
@@ -426,7 +426,7 @@
          sodipodi:type="arc" />
       <path
          transform="translate(-2,-5)"
-         d="m 347,497.36218 c 0,6.62742 -5.37258,12 -12,12 -6.62742,0 -12,-5.37258 -12,-12 0,-6.62741 5.37258,-12 12,-12 6.62742,0 12,5.37259 12,12 z"
+         d="m 347,497.36218 a 12,12 0 1 1 -24,0 12,12 0 1 1 24,0 z"
          sodipodi:ry="12"
          sodipodi:rx="12"
          sodipodi:cy="497.36218"
@@ -508,10 +508,11 @@
        id="path5203"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 300,370 0,80 1120,0"
+       style="fill:none;stroke:#000000;stroke-width:1.06066012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120,450 1300,0"
        id="path5205"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 300,450 0,180"
@@ -870,14 +871,14 @@
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="184.70445"
-       y="468.48148"
+       x="180"
+       y="490"
        id="text5547"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5549"
-         x="184.70445"
-         y="468.48148">112</tspan></text>
+         x="180"
+         y="490">112</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -1065,6 +1066,11 @@
          x="120"
          y="870"
          style="font-size:50px">Kilham - 1st Floor (All Women)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1240,370 0,80"
+       id="path5436"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      style="display:none"
@@ -1676,6 +1682,11 @@
          id="path5874-9"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1240,370 0,80"
+       id="path5436-4"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2276,10 +2287,10 @@
          id="path5874-9-7"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1240,370 0,80"
+       id="path5436-8"
+       inkscape:connector-curvature="0" />
   </g>
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 1240,370 0,80"
-     id="path5436"
-     inkscape:connector-curvature="0" />
 </svg>

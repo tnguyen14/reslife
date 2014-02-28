@@ -413,16 +413,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="550.0913"
-     inkscape:cy="228.19425"
+     inkscape:zoom="1"
+     inkscape:cx="794.47052"
+     inkscape:cy="45.748749"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
-     showgrid="true"
+     inkscape:current-layer="layer7"
+     showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1837"
-     inkscape:window-height="1023"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
      inkscape:window-x="51"
      inkscape:window-y="22"
      inkscape:window-maximized="0">
@@ -821,7 +821,7 @@
          id="tspan4895"
          x="139.46538"
          y="320.16177"
-         style="font-size:25px">171</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">171</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -829,7 +829,7 @@
        id="path67-7-63-5-3-5" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="66.620689"
        y="398.95071"
        id="text4893-0"
@@ -841,7 +841,7 @@
          id="tspan4895-0"
          x="66.620689"
          y="398.95071"
-         style="font-size:25px">170</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">170</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -861,7 +861,7 @@
          id="tspan4895-0-5"
          x="57.782124"
          y="469.10684"
-         style="font-size:25px">165</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">165</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -886,7 +886,7 @@
          id="tspan4895-2"
          x="121.88691"
          y="552.62787"
-         style="font-size:25px">164</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">164</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -911,7 +911,7 @@
          id="tspan4895-2-4"
          x="235.06224"
          y="561.63763"
-         style="font-size:25px">162</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">162</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,148.27864,400.36242)"
        style="fill:#000000"
@@ -1041,7 +1041,7 @@
          id="tspan4895-2-4-4"
          x="386.5657"
          y="513.66425"
-         style="font-size:25px">151</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">151</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1061,7 +1061,7 @@
          id="tspan4895-0-5-9"
          x="380.55548"
          y="633.78033"
-         style="font-size:25px">152</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">152</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1081,7 +1081,7 @@
          id="tspan4895-0-5-9-2"
          x="462.82986"
          y="425.53113"
-         style="font-size:25px">150</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">150</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1101,7 +1101,7 @@
          id="tspan4895-0-5-9-2-8"
          x="542.24805"
          y="424.57761"
-         style="font-size:25px">145</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">145</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,501.30781,482.19161)"
        style="fill:#000000;display:inline"
@@ -1148,7 +1148,7 @@
        id="path67-7-63-5-3-5-4-2-5" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="464.54395"
        y="632.38824"
        id="text4893-0-9-5-1"
@@ -1160,7 +1160,7 @@
          id="tspan4895-0-5-9-3"
          x="464.54395"
          y="632.38824"
-         style="font-size:25px">148</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">148</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1180,7 +1180,7 @@
          id="tspan4895-0-5-9-0"
          x="540.53351"
          y="631.1286"
-         style="font-size:25px">147</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">147</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1193,7 +1193,7 @@
        id="path67-7-63-5-3-2-1-7-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="616.36841"
        y="499.85397"
        id="text4893-1-3-4-4"
@@ -1205,7 +1205,7 @@
          id="tspan4895-2-4-4-9"
          x="616.36841"
          y="499.85397"
-         style="font-size:25px">144</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">144</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1230,7 +1230,7 @@
          id="tspan4895-2-4-4-9-9"
          x="690.35822"
          y="498.62762"
-         style="font-size:25px">140</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">140</tspan></text>
     <g
        style="display:inline"
        transform="translate(357.35604,235.63782)"
@@ -1265,7 +1265,7 @@
          id="tspan4895-0-5-9-0-8"
          x="616.52301"
          y="629.86908"
-         style="font-size:25px">142</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">142</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1273,7 +1273,7 @@
        id="path67-7-63-5-3-5-4-2-6-1" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="689.43011"
        y="623.66003"
        id="text4893-0-9-5-5-4"
@@ -1285,7 +1285,7 @@
          id="tspan4895-0-5-9-0-1"
          x="689.43011"
          y="623.66003"
-         style="font-size:25px">141</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">141</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1293,7 +1293,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="767.41943"
        y="622.36737"
        id="text4893-0-9-5-5-4-1"
@@ -1305,7 +1305,7 @@
          id="tspan4895-0-5-9-0-1-7"
          x="767.41943"
          y="622.36737"
-         style="font-size:25px">137</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">137</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1325,7 +1325,7 @@
          id="tspan4895-0-5-9-0-1-7-8"
          x="842.40912"
          y="621.12445"
-         style="font-size:25px">136</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">136</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1345,7 +1345,7 @@
          id="tspan4895-0-5-9-0-1-7-6"
          x="918.39874"
          y="619.86493"
-         style="font-size:25px">135</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">135</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1365,7 +1365,7 @@
          id="tspan4895-0-5-9-0-1-7-7"
          x="761.56781"
          y="426.27289"
-         style="font-size:25px">139</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">139</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -1380,7 +1380,7 @@
          id="tspan4895-0-5-9-0-1-7-2"
          x="839.16095"
          y="425.15137"
-         style="font-size:25px">133</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">133</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1405,7 +1405,7 @@
          id="tspan4895-2-4-4-9-9-0"
          x="925.39221"
          y="498.73257"
-         style="font-size:25px">132</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">132</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,803.30781,482.19161)"
        style="fill:#000000;display:inline"
@@ -1615,7 +1615,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1180"
        y="650"
        id="text5600"
@@ -1624,7 +1624,7 @@
          id="tspan5602"
          x="1180"
          y="650"
-         style="font-size:25px">Residential Staff</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Residential Staff</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 1240,540 60,-25 27,59"
@@ -1693,7 +1693,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="80"
        y="890"
        id="text3674"
@@ -1702,7 +1702,7 @@
          id="tspan3676"
          x="80"
          y="890"
-         style="font-size:50px">Beard - 1st Floor</tspan></text>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Beard - 1st Floor</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2048,7 +2048,7 @@
        id="path67-7-63-5-3-59" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="142.45036"
        y="325.689"
        id="text4893-08"
@@ -2060,7 +2060,7 @@
          id="tspan4895-5"
          x="142.45036"
          y="325.689"
-         style="font-size:25px">271</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">271</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2080,7 +2080,7 @@
          id="tspan4895-0-2"
          x="61.621376"
          y="399.0336"
-         style="font-size:25px">270</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">270</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2100,7 +2100,7 @@
          id="tspan4895-0-5-8"
          x="60.767113"
          y="474.63406"
-         style="font-size:25px">265</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">265</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2113,7 +2113,7 @@
        id="path67-7-63-5-3-2-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="124.87189"
        y="558.15509"
        id="text4893-1-6"
@@ -2125,7 +2125,7 @@
          id="tspan4895-2-0"
          x="124.87189"
          y="558.15509"
-         style="font-size:25px">264</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">264</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2138,7 +2138,7 @@
        id="path67-7-63-5-3-2-1-5" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="238.04723"
        y="567.16486"
        id="text4893-1-3-2"
@@ -2150,7 +2150,7 @@
          id="tspan4895-2-4-2"
          x="238.04723"
          y="567.16486"
-         style="font-size:25px">262</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">262</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,151.17162,405.93837)"
        style="fill:#000000;display:inline"
@@ -2202,7 +2202,7 @@
        id="path67-7-63-5-3-2-1-7-2" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="385.53952"
        y="513.85205"
        id="text4893-1-3-4-0"
@@ -2214,7 +2214,7 @@
          id="tspan4895-2-4-4-3"
          x="385.53952"
          y="513.85205"
-         style="font-size:25px">251</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">251</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2222,9 +2222,9 @@
        id="path67-7-63-5-3-5-4-2-7" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="379.5293"
-       y="633.9682"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       x="383.52875"
+       y="633.90192"
        id="text4893-0-9-5-7"
        sodipodi:linespacing="125%"
        transform="matrix(0.99986267,0.01657232,-0.01657232,0.99986267,0,0)"
@@ -2232,9 +2232,9 @@
        inkscape:transform-center-x="-2.3789429"><tspan
          sodipodi:role="line"
          id="tspan4895-0-5-9-31"
-         x="379.5293"
-         y="633.9682"
-         style="font-size:25px">252</tspan></text>
+         x="383.52875"
+         y="633.90192"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">252</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2242,7 +2242,7 @@
        id="path67-7-63-5-3-5-4-2-1-7" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="461.80368"
        y="425.71896"
        id="text4893-0-9-5-2-83"
@@ -2254,7 +2254,7 @@
          id="tspan4895-0-5-9-2-0"
          x="461.80368"
          y="425.71896"
-         style="font-size:25px">250</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">250</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2262,7 +2262,7 @@
        id="path67-7-63-5-3-5-4-2-1-1-5" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="541.2218"
        y="424.76544"
        id="text4893-0-9-5-2-8-4"
@@ -2274,7 +2274,7 @@
          id="tspan4895-0-5-9-2-8-3"
          x="541.2218"
          y="424.76544"
-         style="font-size:25px">245</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">245</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,500.27864,482.36242)"
        style="fill:#000000;display:inline"
@@ -2321,7 +2321,7 @@
        id="path67-7-63-5-3-5-4-2-5-5" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="463.51776"
        y="632.57611"
        id="text4893-0-9-5-1-2"
@@ -2333,7 +2333,7 @@
          id="tspan4895-0-5-9-3-1"
          x="463.51776"
          y="632.57611"
-         style="font-size:25px">248</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">248</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2341,7 +2341,7 @@
        id="path67-7-63-5-3-5-4-2-6-10" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="539.50726"
        y="631.31647"
        id="text4893-0-9-5-5-2"
@@ -2353,7 +2353,7 @@
          id="tspan4895-0-5-9-0-2"
          x="539.50726"
          y="631.31647"
-         style="font-size:25px">247</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">247</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2366,7 +2366,7 @@
        id="path67-7-63-5-3-2-1-7-9-1" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="615.34216"
        y="500.04181"
        id="text4893-1-3-4-4-8"
@@ -2378,7 +2378,7 @@
          id="tspan4895-2-4-4-9-94"
          x="615.34216"
          y="500.04181"
-         style="font-size:25px">244</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">244</tspan></text>
     <g
        style="display:inline"
        transform="translate(356.32687,235.80863)"
@@ -2401,7 +2401,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="615.49677"
        y="630.05695"
        id="text4893-0-9-5-5-8-7"
@@ -2413,7 +2413,7 @@
          id="tspan4895-0-5-9-0-8-7"
          x="615.49677"
          y="630.05695"
-         style="font-size:25px">242</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">242</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2431,7 +2431,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="690.35822"
        y="498.62762"
        id="text4893-1-3-4-4-3-5"
@@ -2443,7 +2443,7 @@
          id="tspan4895-2-4-4-9-9-6"
          x="690.35822"
          y="498.62762"
-         style="font-size:25px">240</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">240</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2451,7 +2451,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-2" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="689.43011"
        y="623.66003"
        id="text4893-0-9-5-5-4-8"
@@ -2463,7 +2463,7 @@
          id="tspan4895-0-5-9-0-1-4"
          x="689.43011"
          y="623.66003"
-         style="font-size:25px">241</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">241</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2471,7 +2471,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-6" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="767.41943"
        y="622.36737"
        id="text4893-0-9-5-5-4-1-20"
@@ -2483,7 +2483,7 @@
          id="tspan4895-0-5-9-0-1-7-4"
          x="767.41943"
          y="622.36737"
-         style="font-size:25px">237</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">237</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2491,7 +2491,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-0-7" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="842.40912"
        y="621.12445"
        id="text4893-0-9-5-5-4-1-2-9"
@@ -2503,7 +2503,7 @@
          id="tspan4895-0-5-9-0-1-7-8-6"
          x="842.40912"
          y="621.12445"
-         style="font-size:25px">236</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">236</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2511,7 +2511,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="918.39874"
        y="619.86493"
        id="text4893-0-9-5-5-4-1-0-6"
@@ -2523,7 +2523,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3"
          x="918.39874"
          y="619.86493"
-         style="font-size:25px">235</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">235</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2531,7 +2531,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-5-8" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="761.56781"
        y="426.27289"
        id="text4893-0-9-5-5-4-1-1-4"
@@ -2543,10 +2543,10 @@
          id="tspan4895-0-5-9-0-1-7-7-5"
          x="761.56781"
          y="426.27289"
-         style="font-size:25px">239</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">239</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="839.16095"
        y="425.15137"
        id="text4893-0-9-5-5-4-1-05-2"
@@ -2558,7 +2558,7 @@
          id="tspan4895-0-5-9-0-1-7-2-9"
          x="839.16095"
          y="425.15137"
-         style="font-size:25px">233</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">233</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2571,7 +2571,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-6-7" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="925.39221"
        y="498.73257"
        id="text4893-1-3-4-4-3-9-9"
@@ -2583,7 +2583,7 @@
          id="tspan4895-2-4-4-9-9-0-7"
          x="925.39221"
          y="498.73257"
-         style="font-size:25px">232</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">232</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,803.30781,482.19161)"
        style="fill:#000000;display:inline"
@@ -2635,7 +2635,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-6-7-8" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1075.1451"
        y="422.24033"
        id="text4893-1-3-4-4-3-9-9-9"
@@ -2647,7 +2647,7 @@
          id="tspan4895-2-4-4-9-9-0-7-0"
          x="1075.1451"
          y="422.24033"
-         style="font-size:25px">215</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">215</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2660,7 +2660,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-6-7-2" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1177.8438"
        y="644.56891"
        id="text4893-1-3-4-4-3-9-9-2"
@@ -2672,7 +2672,7 @@
          id="tspan4895-2-4-4-9-9-0-7-8"
          x="1177.8438"
          y="644.56891"
-         style="font-size:25px">219</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">219</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2685,9 +2685,9 @@
        id="path67-7-63-5-3-2-1-7-9-4-6-7-80" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1278.526"
-       y="322.85617"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       x="1282.5255"
+       y="322.78989"
        id="text4893-1-3-4-4-3-9-9-4"
        sodipodi:linespacing="125%"
        transform="matrix(0.99986267,0.01657232,-0.01657232,0.99986267,0,0)"
@@ -2695,9 +2695,9 @@
        inkscape:transform-center-x="-2.3789429"><tspan
          sodipodi:role="line"
          id="tspan4895-2-4-4-9-9-0-7-9"
-         x="1278.526"
-         y="322.85617"
-         style="font-size:25px">205</tspan></text>
+         x="1282.5255"
+         y="322.78989"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">205</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2705,7 +2705,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1113.5654"
        y="326.5903"
        id="text4893-0-9-5-5-4-1-0-6-2"
@@ -2717,7 +2717,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-4"
          x="1113.5654"
          y="326.5903"
-         style="font-size:25px">214</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">214</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2725,7 +2725,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-6" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1183.0585"
        y="295.43436"
        id="text4893-0-9-5-5-4-1-0-6-25"
@@ -2737,10 +2737,10 @@
          id="tspan4895-0-5-9-0-1-7-6-3-3"
          x="1183.0585"
          y="295.43436"
-         style="font-size:25px">206</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">206</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1291.8063"
        y="701.68781"
        id="text4893-0-9-5-5-4-1-0-6-4"
@@ -2752,7 +2752,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-0"
          x="1291.8063"
          y="701.68781"
-         style="font-size:25px">218</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">218</tspan></text>
     <path
        style="opacity:0.98000004;display:inline"
        inkscape:connector-curvature="0"
@@ -2760,7 +2760,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-2" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1369.1654"
        y="662.4007"
        id="text4893-0-9-5-5-4-1-0-6-7"
@@ -2770,7 +2770,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-2"
          x="1369.1654"
          y="662.4007"
-         style="font-size:25px">209</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">209</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -2778,9 +2778,9 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-7" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1319.7853"
-       y="405.18356"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       x="1323.7848"
+       y="405.11728"
        id="text4893-0-9-5-5-4-1-0-6-9"
        sodipodi:linespacing="125%"
        transform="matrix(0.99986267,0.01657232,-0.01657232,0.99986267,0,0)"
@@ -2788,9 +2788,9 @@
        inkscape:transform-center-x="-2.3789429"><tspan
          sodipodi:role="line"
          id="tspan4895-0-5-9-0-1-7-6-3-5"
-         x="1319.7853"
-         y="405.18356"
-         style="font-size:25px">204</tspan></text>
+         x="1323.7848"
+         y="405.11728"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">204</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,1183.3078,366.19161)"
        style="fill:#000000;display:inline"
@@ -2882,7 +2882,7 @@
        sodipodi:nodetypes="cccccccccccccc" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="878.93658"
        y="-1104.7102"
        id="text6623"
@@ -2892,7 +2892,7 @@
          id="tspan6625"
          x="878.93658"
          y="-1104.7102"
-         style="font-size:25px">Balcony</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Balcony</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 1390,425 20,40"
@@ -2992,7 +2992,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="100"
        y="910"
        id="text3674-1"
@@ -3001,7 +3001,7 @@
          id="tspan3676-3"
          x="100"
          y="910"
-         style="font-size:50px">Beard - 2nd Floor</tspan></text>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Beard - 2nd Floor</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3294,7 +3294,7 @@
        id="path67-7-63-5-3-59-7" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="142.16827"
        y="326.28235"
        id="text4893-08-7"
@@ -3306,7 +3306,7 @@
          id="tspan4895-5-7"
          x="142.16827"
          y="326.28235"
-         style="font-size:25px">371</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">371</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3314,7 +3314,7 @@
        id="path67-7-63-5-3-5-1-3" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="61.339291"
        y="399.62695"
        id="text4893-0-99-6"
@@ -3326,7 +3326,7 @@
          id="tspan4895-0-2-3"
          x="61.339291"
          y="399.62695"
-         style="font-size:25px">370</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">370</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3334,7 +3334,7 @@
        id="path67-7-63-5-3-5-4-7-8" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="60.485027"
        y="475.22742"
        id="text4893-0-9-57-7"
@@ -3346,7 +3346,7 @@
          id="tspan4895-0-5-8-0"
          x="60.485027"
          y="475.22742"
-         style="font-size:25px">365</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">365</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3359,7 +3359,7 @@
        id="path67-7-63-5-3-2-9-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="124.58981"
        y="558.74847"
        id="text4893-1-6-5"
@@ -3371,7 +3371,7 @@
          id="tspan4895-2-0-9"
          x="124.58981"
          y="558.74847"
-         style="font-size:25px">364</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">364</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3384,7 +3384,7 @@
        id="path67-7-63-5-3-2-1-5-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="237.76512"
        y="567.75824"
        id="text4893-1-3-2-5"
@@ -3396,7 +3396,7 @@
          id="tspan4895-2-4-2-5"
          x="237.76512"
          y="567.75824"
-         style="font-size:25px">362</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">362</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="M 230,270 165,260"
@@ -3415,7 +3415,7 @@
        id="path67-7-63-5-3-2-1-7-2-1" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="385.53952"
        y="513.85205"
        id="text4893-1-3-4-0-5"
@@ -3427,7 +3427,7 @@
          id="tspan4895-2-4-4-3-0"
          x="385.53952"
          y="513.85205"
-         style="font-size:25px">351</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">351</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3435,7 +3435,7 @@
        id="path67-7-63-5-3-5-4-2-7-0" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="379.5293"
        y="633.9682"
        id="text4893-0-9-5-7-0"
@@ -3447,7 +3447,7 @@
          id="tspan4895-0-5-9-31-7"
          x="379.5293"
          y="633.9682"
-         style="font-size:25px">352</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">352</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3455,7 +3455,7 @@
        id="path67-7-63-5-3-5-4-2-1-7-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="461.80368"
        y="425.71896"
        id="text4893-0-9-5-2-83-3"
@@ -3467,7 +3467,7 @@
          id="tspan4895-0-5-9-2-0-3"
          x="461.80368"
          y="425.71896"
-         style="font-size:25px">350</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">350</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3475,7 +3475,7 @@
        id="path67-7-63-5-3-5-4-2-1-1-5-5" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="541.2218"
        y="424.76544"
        id="text4893-0-9-5-2-8-4-1"
@@ -3487,7 +3487,7 @@
          id="tspan4895-0-5-9-2-8-3-9"
          x="541.2218"
          y="424.76544"
-         style="font-size:25px">345</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">345</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,500.27864,482.36242)"
        style="fill:#000000;display:inline"
@@ -3534,7 +3534,7 @@
        id="path67-7-63-5-3-5-4-2-5-5-4" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="463.51776"
        y="632.57611"
        id="text4893-0-9-5-1-2-4"
@@ -3546,7 +3546,7 @@
          id="tspan4895-0-5-9-3-1-2"
          x="463.51776"
          y="632.57611"
-         style="font-size:25px">348</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">348</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3554,7 +3554,7 @@
        id="path67-7-63-5-3-5-4-2-6-10-4" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="539.50726"
        y="631.31647"
        id="text4893-0-9-5-5-2-2"
@@ -3566,7 +3566,7 @@
          id="tspan4895-0-5-9-0-2-6"
          x="539.50726"
          y="631.31647"
-         style="font-size:25px">347</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">347</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3579,7 +3579,7 @@
        id="path67-7-63-5-3-2-1-7-9-1-3" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="615.34216"
        y="500.04181"
        id="text4893-1-3-4-4-8-6"
@@ -3591,7 +3591,7 @@
          id="tspan4895-2-4-4-9-94-6"
          x="615.34216"
          y="500.04181"
-         style="font-size:25px">344</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">344</tspan></text>
     <g
        style="display:inline"
        transform="translate(356.32688,235.80863)"
@@ -3614,7 +3614,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="615.49677"
        y="630.05695"
        id="text4893-0-9-5-5-8-7-6"
@@ -3626,7 +3626,7 @@
          id="tspan4895-0-5-9-0-8-7-8"
          x="615.49677"
          y="630.05695"
-         style="font-size:25px">342</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">342</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3644,7 +3644,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-9-1" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="690.35822"
        y="498.62762"
        id="text4893-1-3-4-4-3-5-5"
@@ -3656,7 +3656,7 @@
          id="tspan4895-2-4-4-9-9-6-7"
          x="690.35822"
          y="498.62762"
-         style="font-size:25px">340</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">340</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3664,7 +3664,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-2-8" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="689.43011"
        y="623.66003"
        id="text4893-0-9-5-5-4-8-0"
@@ -3676,7 +3676,7 @@
          id="tspan4895-0-5-9-0-1-4-2"
          x="689.43011"
          y="623.66003"
-         style="font-size:25px">341</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">341</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3684,7 +3684,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-6-3" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="767.41943"
        y="622.36737"
        id="text4893-0-9-5-5-4-1-20-0"
@@ -3696,7 +3696,7 @@
          id="tspan4895-0-5-9-0-1-7-4-0"
          x="767.41943"
          y="622.36737"
-         style="font-size:25px">337</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">337</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3704,7 +3704,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-0-7-4" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="842.40912"
        y="621.12445"
        id="text4893-0-9-5-5-4-1-2-9-9"
@@ -3716,7 +3716,7 @@
          id="tspan4895-0-5-9-0-1-7-8-6-7"
          x="842.40912"
          y="621.12445"
-         style="font-size:25px">336</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">336</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3724,7 +3724,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-5-8-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="761.56781"
        y="426.27289"
        id="text4893-0-9-5-5-4-1-1-4-6"
@@ -3736,10 +3736,10 @@
          id="tspan4895-0-5-9-0-1-7-7-5-9"
          x="761.56781"
          y="426.27289"
-         style="font-size:25px">339</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">339</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="839.16095"
        y="425.15137"
        id="text4893-0-9-5-5-4-1-05-2-6"
@@ -3751,7 +3751,7 @@
          id="tspan4895-0-5-9-0-1-7-2-9-7"
          x="839.16095"
          y="425.15137"
-         style="font-size:25px">333</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">333</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,803.30781,482.19161)"
        style="fill:#000000;display:inline"
@@ -3798,7 +3798,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-21" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="917.22864"
        y="618.68787"
        id="text4893-0-9-5-5-4-1-0-6-70"
@@ -3810,7 +3810,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-9"
          x="917.22864"
          y="618.68787"
-         style="font-size:25px">335</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">335</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3823,7 +3823,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-6-7-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="924.22211"
        y="497.5556"
        id="text4893-1-3-4-4-3-9-9-28"
@@ -3835,7 +3835,7 @@
          id="tspan4895-2-4-4-9-9-0-7-6"
          x="924.22211"
          y="497.5556"
-         style="font-size:25px">332</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">332</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3848,7 +3848,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-6-7-8-2" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1073.9752"
        y="421.06335"
        id="text4893-1-3-4-4-3-9-9-9-1"
@@ -3860,7 +3860,7 @@
          id="tspan4895-2-4-4-9-9-0-7-0-5"
          x="1073.9752"
          y="421.06335"
-         style="font-size:25px">315</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">315</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3873,7 +3873,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-6-7-80-0" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1277.3561"
        y="321.6792"
        id="text4893-1-3-4-4-3-9-9-4-0"
@@ -3885,7 +3885,7 @@
          id="tspan4895-2-4-4-9-9-0-7-9-8"
          x="1277.3561"
          y="321.6792"
-         style="font-size:25px">305</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">305</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3893,7 +3893,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-9-8" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1112.3955"
        y="325.41333"
        id="text4893-0-9-5-5-4-1-0-6-2-0"
@@ -3905,7 +3905,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-4-2"
          x="1112.3955"
          y="325.41333"
-         style="font-size:25px">314</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">314</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3913,7 +3913,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-6-6" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1181.8885"
        y="294.25739"
        id="text4893-0-9-5-5-4-1-0-6-25-4"
@@ -3925,7 +3925,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-3-0"
          x="1181.8885"
          y="294.25739"
-         style="font-size:25px">306</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">306</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -3933,7 +3933,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-7-9" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1318.6154"
        y="404.00659"
        id="text4893-0-9-5-5-4-1-0-6-9-0"
@@ -3945,7 +3945,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-5-8"
          x="1318.6154"
          y="404.00659"
-         style="font-size:25px">304</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">304</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 980,550 130,0 -60,-125"
@@ -4000,7 +4000,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-5-8-2"
          x="1318.6154"
          y="404.00659"
-         style="font-size:25px">304</tspan></text>
+         style="font-size:25px" /></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1130,615 0,-25 70,-30 65,145 0,0"
@@ -4064,7 +4064,7 @@
        id="path67-7-63-5-3-2-1-7-9-4-6-7-2-0" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1165.4476"
        y="620.77106"
        id="text4893-1-3-4-4-3-9-9-2-7"
@@ -4076,10 +4076,10 @@
          id="tspan4895-2-4-4-9-9-0-7-8-5"
          x="1165.4476"
          y="620.77106"
-         style="font-size:25px">320</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">320</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1290.8214"
        y="701.70416"
        id="text4893-0-9-5-5-4-1-0-6-4-7"
@@ -4091,7 +4091,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-0-3"
          x="1290.8214"
          y="701.70416"
-         style="font-size:25px">318</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">318</tspan></text>
     <path
        style="opacity:0.98000004;display:inline"
        inkscape:connector-curvature="0"
@@ -4099,7 +4099,7 @@
        id="path67-7-63-5-3-5-4-2-6-1-3-1-8-2-2" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1368.1805"
        y="662.41705"
        id="text4893-0-9-5-5-4-1-0-6-7-5"
@@ -4109,7 +4109,7 @@
          id="tspan4895-0-5-9-0-1-7-6-3-2-1"
          x="1368.1805"
          y="662.41705"
-         style="font-size:25px">309</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">309</tspan></text>
     <g
        transform="matrix(0.05566047,0,0,0.05382308,1182.3228,366.19161)"
        style="fill:#000000;display:inline"
@@ -4196,7 +4196,7 @@
        sodipodi:nodetypes="cccccccccccccc" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="1197.7028"
        y="696.24695"
        id="text4893-1-3-4-4-3-9-9-2-7-6"
@@ -4208,7 +4208,7 @@
          id="tspan4895-2-4-4-9-9-0-7-8-5-9"
          x="1197.7028"
          y="696.24695"
-         style="font-size:25px">319</tspan></text>
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">319</tspan></text>
     <g
        style="display:inline"
        transform="translate(945.58541,313.08711)"
@@ -4328,7 +4328,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
        x="80"
        y="910"
        id="text3674-5"
@@ -4337,6 +4337,6 @@
          id="tspan3676-4"
          x="80"
          y="910"
-         style="font-size:50px">Beard - 3rd Floor</tspan></text>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Beard - 3rd Floor</tspan></text>
   </g>
 </svg>

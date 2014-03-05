@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="523.165"
+     inkscape:cx="542.89958"
      inkscape:cy="463.0673"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -231,7 +231,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="80"
        y="927.79395"
        id="text5307-4"
@@ -240,10 +240,10 @@
          id="tspan5309-5"
          x="80"
          y="927.79395"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Chapin - Basement</tspan></text>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Chapin - Basement</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        x="607.50977"
        y="800.00488"
        id="text5350-3"
@@ -254,7 +254,7 @@
          y="800.00488">Kilham/ Metcalf side</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="1090"
        y="306"
        id="text3210"
@@ -263,7 +263,19 @@
          id="tspan3212"
          x="1090"
          y="306"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Storage</tspan></text>
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Storage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="906.89062"
+       y="913.51758"
+       id="text3680"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3682"
+         x="906.89062"
+         y="913.51758"
+         style="font-size:20px">* Please note that the floor plan is not drawn to scale</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -495,7 +507,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="580"
        y="270"
        id="text4886"
@@ -506,7 +518,7 @@
          y="270">100</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        x="940"
        y="270"
        id="text4886-6"
@@ -517,7 +529,7 @@
          y="270">102</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="1260"
        y="270"
        id="text4886-8"
@@ -526,10 +538,10 @@
          id="tspan4888-4"
          x="1260"
          y="270"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">104</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">104</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="184"
        y="586"
        id="text4886-3"
@@ -538,10 +550,10 @@
          id="tspan4888-23"
          x="184"
          y="586"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">101</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">101</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="460"
        y="550"
        id="text4886-69"
@@ -550,10 +562,10 @@
          id="tspan4888-5"
          x="460"
          y="550"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">103</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">103</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="720"
        y="550"
        id="text4886-4"
@@ -562,10 +574,10 @@
          id="tspan4888-21"
          x="720"
          y="550"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">105</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">105</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="1264"
        y="590"
        id="text4886-7"
@@ -574,7 +586,7 @@
          id="tspan4888-1"
          x="1264"
          y="590"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">109</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">109</tspan></text>
     <g
        style="display:inline"
        id="g6051-9"
@@ -635,7 +647,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
        x="80"
        y="928"
        id="text5307"
@@ -644,10 +656,10 @@
          id="tspan5309"
          x="80"
          y="928"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Chapin - 1st Floor</tspan></text>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Chapin - 1st Floor</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="611.50977"
        y="812.00488"
        id="text5350-15"
@@ -656,7 +668,19 @@
          id="tspan5352-5"
          x="611.50977"
          y="812.00488"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Kilham/ Metcalf side</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Kilham/ Metcalf side</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="904.89062"
+       y="931.51758"
+       id="text3680-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3682-7"
+         x="904.89062"
+         y="931.51758"
+         style="font-size:20px">* Please note that the floor plan is not drawn to scale</tspan></text>
   </g>
   <g
      style="display:none"
@@ -843,7 +867,7 @@
        id="text5042"
        y="287.17157"
        x="508.48529"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
          y="287.17157"
          x="508.48529"
@@ -852,12 +876,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text5046"
-       y="278.68628"
-       x="961.41418"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       y="290.68628"
+       x="921.41418"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
-         y="278.68628"
-         x="961.41418"
+         y="290.68628"
+         x="921.41418"
          id="tspan5048"
          sodipodi:role="line">206</tspan></text>
     <text
@@ -865,61 +889,61 @@
        id="text5050"
        y="278.48529"
        x="1257.1716"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        xml:space="preserve"><tspan
          y="278.48529"
          x="1257.1716"
          id="tspan5052"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">208</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">208</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5054"
        y="578.92896"
        x="186.82843"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        xml:space="preserve"><tspan
          y="578.92896"
          x="186.82843"
          id="tspan5056"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">201</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">201</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5058"
        y="550"
        x="460"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        xml:space="preserve"><tspan
          y="550"
          x="460"
          id="tspan5060"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">203</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">203</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5062"
        y="554.24261"
        x="720"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        xml:space="preserve"><tspan
          y="554.24261"
          x="720"
          id="tspan5064"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">205</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">205</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5066"
        y="590"
        x="1264"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        xml:space="preserve"><tspan
          y="590"
          x="1264"
          id="tspan5068"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">209</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">209</tspan></text>
     <path
        id="path5004-5"
        d="m 540.36987,213.74027 c -1.02177,-0.16261 -1.04508,-2.97217 -1.04508,-2.97217 0,0 3.00241,-2.97226 3.65681,-6.96911 1.76026,0 2.84757,-4.24915 1.08701,-5.74416 0.0735,-1.57375 2.26263,-12.35401 -8.82041,-12.35401 -11.08305,0 -8.8938,10.78026 -8.82052,12.35401 -1.76046,1.49501 -0.67334,5.74416 1.08704,5.74416 0.6543,3.99685 3.65679,6.96911 3.65679,6.96911 0,0 -0.0234,2.80961 -1.04506,2.97217 -3.29135,0.5237 -15.58196,5.94466 -15.58196,11.88911 l 20.70371,0 20.7037,0 c 0,-5.94445 -12.29059,-11.36541 -15.58203,-11.88911 z"
@@ -945,7 +969,7 @@
        id="text5042-7"
        y="290"
        x="200"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        xml:space="preserve"><tspan
          y="290"
          x="200"
@@ -953,7 +977,7 @@
          sodipodi:role="line">202</tspan></text>
     <g
        style="display:inline"
-       transform="matrix(1.6971106,0,0,1.6971106,532.27028,-414.06898)"
+       transform="matrix(1.6971106,0,0,1.6971106,492.27028,-402.06898)"
        id="g3809-3">
       <path
          id="path67-7-6-7-9"
@@ -973,7 +997,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="80"
        y="909.79395"
        id="text5307-1"
@@ -982,10 +1006,10 @@
          id="tspan5309-1"
          x="80"
          y="909.79395"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Chapin - 2nd Floor</tspan></text>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Chapin - 2nd Floor</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="605.50977"
        y="804.00488"
        id="text5350-1"
@@ -994,10 +1018,10 @@
          id="tspan5352-9"
          x="605.50977"
          y="804.00488"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Kilham/ Metcalf side</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Kilham/ Metcalf side</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="-112"
        y="112"
        id="text3485"
@@ -1005,7 +1029,7 @@
          sodipodi:role="line"
          id="tspan3487"
          x="-112"
-         y="112"></tspan><tspan
+         y="112" /><tspan
          sodipodi:role="line"
          id="tspan3489"
          x="-112"
@@ -1014,6 +1038,87 @@
          x="-112"
          y="187"
          id="tspan3491" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1140,220 -90,0"
+       id="path3216"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1050,130 0,90"
+       id="path3218"
+       inkscape:connector-curvature="0" />
+    <g
+       style="display:inline"
+       id="g3129"
+       transform="matrix(1.8032516,0,0,1.8032516,168.58552,-630.80202)">
+      <g
+         id="g4-4"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
+         transform="matrix(0.0287828,0,0,0.0287828,505.78263,436.02131)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="circle6-1"
+           r="46.545212"
+           cy="46.58577"
+           cx="130.9501"
+           sodipodi:cx="130.9501"
+           sodipodi:cy="46.58577"
+           sodipodi:rx="46.545212"
+           sodipodi:ry="46.545212"
+           d="m 177.49532,46.58577 c 0,25.70621 -20.83901,46.545211 -46.54522,46.545211 -25.70621,0 -46.545208,-20.839001 -46.545208,-46.545211 0,-25.706211 20.838998,-46.54521214 46.545208,-46.54521214 25.70621,0 46.54522,20.83900114 46.54522,46.54521214 z" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="path8-1"
+           d="m 124.50539,388.15534 0,161.83399 c -0.24346,29.40221 -44.010414,29.40221 -44.397086,0 l 0,-161.83399 -57.286553,0 61.583037,-216.25572 -10.025144,0 L 38.57554,295.0651 C 29.524278,322.30474 -7.3109962,311.27714 1.3392857,282.17574 L 41.43986,148.98509 c 4.611576,-15.29544 23.8885,-42.30448 57.286572,-42.96472 l 30.075448,0 0,0 34.37196,0 c 32.43566,0.66024 51.79279,27.89844 57.28657,42.96472 l 40.1006,133.19065 c 8.1347,28.95816 -28.40842,40.84508 -37.23628,12.88936 l -35.8041,-123.16548 -11.45732,0 63.01524,216.25572 -58.71875,0 0,161.83399 c 0.4583,29.40221 -43.13678,29.25897 -42.96493,0 l 0,-161.83399 -12.88948,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="path10-0"
+           d="m 462.49589,106.02037 c -35.78976,0 -58.71876,30.98756 -58.71876,61.58276 l 0,143.21573 c -0.3294,27.98432 39.966,27.98432 40.10064,0 l 0,-131.75848 10.02512,0 0,363.76815 c -0.62156,37.98085 53.04736,36.89241 52.99008,0 l 0,-211.95947 8.593,0 0,211.95947 c 0.70176,36.89241 54.65136,37.98085 54.4222,0 l 0,-363.76815 10.02516,0 0,131.75848 c -0.4726,28.19916 39.61368,28.19916 40.10056,0 l 0,-143.21573 c -0.5728,-30.5952 -24.36108,-61.03424 -60.15084,-61.58276 l -97.38716,0 z"
+           inkscape:connector-curvature="0" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="circle12-6"
+           r="46.545212"
+           cy="46.58577"
+           cx="511.90546"
+           sodipodi:cx="511.90546"
+           sodipodi:cy="46.58577"
+           sodipodi:rx="46.545212"
+           sodipodi:ry="46.545212"
+           d="m 558.45067,46.58577 c 0,25.70621 -20.839,46.545211 -46.54521,46.545211 -25.70621,0 -46.54522,-20.839001 -46.54522,-46.545211 0,-25.706211 20.83901,-46.54521214 46.54522,-46.54521214 25.70621,0 46.54521,20.83900114 46.54521,46.54521214 z" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="rect14-9"
+           height="562.84003"
+           width="52.996765"
+           y="5.7684445"
+           x="297.79132" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:1.87499988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         id="path3795-0-8"
+         sodipodi:cx="270"
+         sodipodi:cy="362.36218"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 285,362.36218 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+         transform="matrix(0.84738943,0,0,0.84738943,286.41569,137.58946)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="900.89062"
+       y="927.51758"
+       id="text3680-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3682-1"
+         x="900.89062"
+         y="927.51758"
+         style="font-size:20px">* Please note that the floor plan is not drawn to scale</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1197,7 +1302,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="500"
        y="290"
        id="text5216"
@@ -1208,7 +1313,7 @@
          y="290">304</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="960"
        y="290"
        id="text5220"
@@ -1217,10 +1322,10 @@
          id="tspan5222"
          x="960"
          y="290"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">306</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">306</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="1260"
        y="277.07108"
        id="text5224"
@@ -1229,10 +1334,10 @@
          id="tspan5226"
          x="1260"
          y="277.07108"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">308</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">308</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="184"
        y="586"
        id="text5228"
@@ -1241,10 +1346,10 @@
          id="tspan5230"
          x="184"
          y="586"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">301</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">301</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="460"
        y="550"
        id="text5232"
@@ -1253,10 +1358,10 @@
          id="tspan5234"
          x="460"
          y="550"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">303</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">303</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="720"
        y="550"
        id="text5236"
@@ -1265,10 +1370,10 @@
          id="tspan5238"
          x="720"
          y="550"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">305</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">305</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="1258.3431"
        y="582.92896"
        id="text5240"
@@ -1277,7 +1382,7 @@
          id="tspan5242"
          x="1258.3431"
          y="582.92896"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">309</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">309</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
@@ -1300,7 +1405,7 @@
        id="path5250" />
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        x="200"
        y="290"
        id="text5252"
@@ -1331,7 +1436,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
        x="80"
        y="913.79395"
        id="text5307-9"
@@ -1340,10 +1445,10 @@
          id="tspan5309-3"
          x="80"
          y="913.79395"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Chapin - 3rd Floor</tspan></text>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Chapin - 3rd Floor</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
        x="614"
        y="792"
        id="text5350"
@@ -1352,6 +1457,18 @@
          id="tspan5352"
          x="614"
          y="792"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial Unicode MS;-inkscape-font-specification:Arial Unicode MS">Kilham/ Metcalf side</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Kilham/ Metcalf side</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="904.89062"
+       y="917.51758"
+       id="text3680-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3682-2"
+         x="904.89062"
+         y="917.51758"
+         style="font-size:20px">* Please note that the floor plan is not drawn to scale</tspan></text>
   </g>
 </svg>

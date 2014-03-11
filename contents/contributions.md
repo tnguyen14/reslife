@@ -1,7 +1,6 @@
 ---
 title: Contributions Guide
 ---
-
 # How to contribute
 These floor plans are created in SVG file format to allow for infinite scalability. They are developed using [InkScape](http://www.inkscape.org/), a free and open-source cross-platform software for editing SVG files. In order to work on these files, it is recommended to use InkScape. Other vector graphics editor, such as Illustrator, might be able to open these files, but compatibility is not guaranteed.
 

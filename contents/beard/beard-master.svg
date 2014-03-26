@@ -411,11 +411,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="680.51349"
-     inkscape:cy="678.88584"
+     inkscape:cx="792.23636"
+     inkscape:cy="452.61167"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -2002,7 +2002,7 @@
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          transform="matrix(0.5,0,0,0.5,157.5,232.43109)"
-         d="m 325,469.86218 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+         d="m 325,469.86218 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z"
          sodipodi:ry="2.5"
          sodipodi:rx="2.5"
          sodipodi:cy="469.86218"
@@ -2012,7 +2012,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.5,0,0,0.5,161,232.43109)"
-         d="m 325,469.86218 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+         d="m 325,469.86218 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z"
          sodipodi:ry="2.5"
          sodipodi:rx="2.5"
          sodipodi:cy="469.86218"
@@ -2022,7 +2022,7 @@
          sodipodi:type="arc" />
       <path
          transform="translate(-2,-5)"
-         d="m 347,497.36218 a 12,12 0 1 1 -24,0 12,12 0 1 1 24,0 z"
+         d="m 347,497.36218 c 0,6.62742 -5.37258,12 -12,12 -6.62742,0 -12,-5.37258 -12,-12 0,-6.62741 5.37258,-12 12,-12 6.62742,0 12,5.37259 12,12 z"
          sodipodi:ry="12"
          sodipodi:rx="12"
          sodipodi:cy="497.36218"
@@ -2402,7 +2402,7 @@
          style="fill:#004877;fill-opacity:1;display:inline" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-18.000009,-25.157491)"
-         d="m 285,362.36218 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+         d="m 285,362.36218 c 0,8.28427 -6.71573,15 -15,15 -8.28427,0 -15,-6.71573 -15,-15 0,-8.28427 6.71573,-15 15,-15 8.28427,0 15,6.71573 15,15 z"
          sodipodi:ry="15"
          sodipodi:rx="15"
          sodipodi:cy="362.36218"
@@ -4233,26 +4233,6 @@
          x="1197.7028"
          y="696.24695"
          style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">319</tspan></text>
-    <g
-       style="display:inline"
-       transform="translate(945.58541,313.08711)"
-       id="g3809-3-4-9-3">
-      <path
-         id="path67-7-6-7-9-2-5-2"
-         d="m 272.64396,364.36218 c -0.56298,-0.0896 -0.57582,-1.63762 -0.57582,-1.63762 0,0 1.65428,-1.63767 2.01484,-3.83987 0.96988,0 1.56897,-2.34121 0.59893,-3.16494 0.0405,-0.86711 1.24667,-6.80686 -4.85991,-6.80686 -6.10658,0 -4.90034,5.93975 -4.85996,6.80686 -0.96999,0.82373 -0.371,3.16494 0.59894,3.16494 0.36051,2.2022 2.01483,3.83987 2.01483,3.83987 0,0 -0.0129,1.54805 -0.57581,1.63762 -1.81348,0.28855 -8.58541,3.27541 -8.58541,6.55071 l 11.40741,0 11.40741,0 c 0,-3.2753 -6.77192,-6.26216 -8.58545,-6.55071 z"
-         inkscape:connector-curvature="0"
-         style="fill:#004877;fill-opacity:1;display:inline" />
-      <path
-         transform="matrix(1.0666667,0,0,1.0666667,-18.000009,-25.157491)"
-         d="m 285,362.36218 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
-         sodipodi:ry="15"
-         sodipodi:rx="15"
-         sodipodi:cy="362.36218"
-         sodipodi:cx="270"
-         id="path3795-0-6-4-9"
-         style="fill:none;stroke:#004877;stroke-width:1.87499988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="arc" />
-    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 1155,670 78,-34.25"
@@ -4374,5 +4354,10 @@
          x="961.84222"
          y="938.94904"
          style="font-size:20px">* Please note that the floor plan is not drawn to scale</tspan></text>
+    <path
+       style="display:inline"
+       inkscape:connector-curvature="0"
+       d="m 1217.627,674.83123 c -0.563,-0.0892 -0.5769,-1.63723 -0.5769,-1.63723 0,0 1.6532,-1.63879 2.0122,-3.84124 0.9699,-6.1e-4 1.5674,-2.34228 0.5968,-3.16534 0.04,-0.86715 1.242,-6.80772 -4.8645,-6.80356 -6.1066,0.004 -4.8963,5.94308 -4.8554,6.81016 -0.9694,0.82439 -0.3688,3.16519 0.6011,3.16454 0.362,2.20195 2.0175,3.83849 2.0175,3.83849 0,0 -0.012,1.54806 -0.5747,1.63802 -1.8133,0.28978 -8.5832,3.28124 -8.581,6.55654 l 11.4074,-0.008 11.4074,-0.008 c 0,-3.2753 -6.7761,-6.25755 -8.5899,-6.54487 z"
+       id="path67-7-63-5-3-2-1-7-9-4-6-7-2-0-7" />
   </g>
 </svg>

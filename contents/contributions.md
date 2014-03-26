@@ -38,8 +38,36 @@ After developing for each building, either after creating a new master file or c
     ├── index.json
     └── stanton-master.svg
     ```
-    
+
 - The distribution step should be done as the last step of the development process. This means that after the last floor is saved, the file should also quit. This convention is helpful to prevent any last minute edits to be applied to a `dist` file and not the `master` copy.
+
+    
+#### Bitmap exports
+Bitmap exports are sometimes necessary as a way to distribute these floorplans.
+
+When exporting bitmap, remember that the default SVG has a transparent background. If white background is needed, change that before exporting.
+
+Exported `.png` files are to be saved in the `dist` folder as well.
+
+ ```
+stanton
+├── dist
+│   ├── stanton-1st.png
+│   ├── stanton-1st.svg
+│   ├── stanton-2nd.png
+│   ├── stanton-2nd.svg
+│   ├── stanton-3rd.png
+│   ├── stanton-3rd.svg
+│   ├── stanton-4th.png
+│   ├── stanton-4th.svg
+│   ├── stanton-basement.png
+│   └── stanton-basement.svg
+├── index.json
+└── stanton-master.svg
+
+1 directory, 12 files
+```
+
 
 ### Text
 Font `Arial` is used to maintain compatibility with Windows.
@@ -53,30 +81,3 @@ Font sizes:
 ### Icons
 Icons are saved in the `icons.svg` file. Any new icon should be added to there first. Icons can then be used by copying from `icons.svg` to wherever needed.
 
-### Exports
-Bitmap exports are sometimes necessary as a way to distribute these floorplans. These exports can be saved in the `exports` folder.
-
-```
-exports
-└── pngs
-    ├── beard
-    │   ├── beard-1st.png
-    │   └── ...
-    ├── chapin
-    │   ├── chapin-1st.png
-    │   └── ...
-    ├── clark
-    │   ├── clark-1st.png
-    │   └── ...
-    ├── everett
-    │   ├── everett-1st.png
-    │   └── ...
-    ├── ...
-    └── young
-        ├── young-1st.png
-        └── ...
-
-18 directories, 66 files
-```
-
-When exporting bitmap, remember that the default SVG has a transparent background. If white background is needed, change that before exporting, and be careful to not save the white background back into SVG file (unless that is desired).

@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="mcintire-master.svg">
+   sodipodi:docname="mcintire-4th.svg"
+   inkscape:export-filename="/Users/tri/dev/freelance/reslife/floorplans/contents/mcintire/dist/mcintire-1st.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
   <defs
      id="defs4">
     <clipPath
@@ -55,13 +58,13 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="624.60534"
-     inkscape:cy="383.06019"
+     inkscape:cx="679.72789"
+     inkscape:cy="497.3459"
      inkscape:document-units="px"
-     inkscape:current-layer="g6622"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1402"
      inkscape:window-height="845"
@@ -84,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -950,7 +953,7 @@
          sodipodi:role="line"
          id="tspan6104-1"
          x="396"
-         y="300">208</tspan></text>
+         y="300">206</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial"
@@ -1028,17 +1031,6 @@
          id="tspan6104-6"
          x="456"
          y="460">203</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
-       x="447.14285"
-       y="297.14285"
-       id="text6190"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6192"
-         x="447.14285"
-         y="297.14285">6</tspan></text>
     <path
        style="display:inline"
        inkscape:connector-curvature="0"
